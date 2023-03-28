@@ -1,0 +1,8 @@
+164f37d6-943c-4dea-8c38-36b2d6622fe6 "jfrog token id" 36
+NRll-hyRROnKqeq1PG44Hrwejy7YwXtZy_n_N "new relic key" 37
+a623f2c46a1266fe466c4953c4988f3d "Datadog api key" 32
+1b2748d6714fe7a65998a92824401be3bbf2  "datadog application key" 36
+
+bVm2eQ2qlw81Ptr4CSzTeZLDpb4TLcHun7iGFTISKj22plqwMF "twitter consumer secret (api secret)" 50
+REWBYxf5Jvj5GZjwSssseZxfr5bcUwBvY9Hpq4CaRzo8C0x7   "Access Token Secret"
+pat-eu1-327a8e1a-94a5-4db3-96a7-5fa99cf6106c  44

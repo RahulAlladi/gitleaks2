@@ -1,0 +1,82 @@
+generate example strings for regular expression
+1 ghp_abc123def456ghi789jkl012mno345pqr678 GitHub Personal Access Token
+2 GOOA1234567890123456 GCP Access Key Id
+3 G1hc3RlciBwYXNzd29yZCB0ZXN0aW5nIHJlcG9ydCBhbmQgc2F2ZSBzaGVsbCBiZSBhbm90aGVyIGNvcnJlY3Q== Azure Keys 
+4 NRll-hyRROnKqeq1PG44Hrwejy7YwXtZy_n_N Newrelic Key
+5 AV0123456789ABCDEF CCavenue Access Code
+6 rzp_live_A1B2C3D4E5F6G7 Razorpay Key Id
+7 2222 2222 2222 2222  Credit Card Number
+8 test@gmail.com Email ID
+9 aio_abcdefghijklmnopqrstuvwxyz01 Adafruitio
+10 keyaaaabbbb123456 Airtable Api Key
+11 appaaaabbbb123456 Airtable App Pattern
+12 LTAIabcdefg1234567890 Alibaba Id
+13 sk_live_pqrstuvwxyz0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 Apideck Key
+14 apify_api_ZKGUHnzyPKSCFyl43ojbNH9JdusP9l5009nT Apify Key
+15 ey594hq99bKfHB5_9viVyEYoJw3cnXJbqZ3fLRC4Qh98WTZIJnNAiMUMuCaF46bjWjwPKv3.EQYApAF_lxLDvjs.rX4eeH57SXNBlk Auth0 Managment API Token
+16 Wd6Ldi4udxhhjRm5IAN1cjAs8p0iwcIkUnS_6LqYCPyf4IjxYRBvUbEuJvgoOzuBtCc5U2A_D_zHuSE.Q60m_IkfiajF6C8KxkzNlauth0.com Auth0 domain 2
+17 ASIA0B8ZY3GUT6GSM6UR AWS IAM ID
+18 AHEEEBY-TL53Y8A-SRZOW28-UJRIMMB Ayrshare Key
+19 EFHttzailgkr9ORPIbrDNvtt Bannerbear Key
+20 sk_test_22dcdebE-7E92-Fc7C-30A5-fD9d1D635c9f Checkout Key
+21 cus_TMQGtgZmdAhIVdozpXPCF8gX2j Checkout Id
+22 QMivrtfntG6J3hXoBoOatryoclickhelp.co Clickhelp Server
+23 pk_58908980_VPSF6BLJGOWB42TBOL6LNIA9LJA83EW9 Clickup personal Token
+24 api_7IMsbbItA3nY0W9yMWPW6cXdNteUlmCYRMwT1sqNcoV.M CloseCRM Key
+25 vNE7Oyr.hoptL_2XMJsBz4Ow48NXGfgj_yj.u69k8_5ecGxWPwS73svjDqtakbcFozuDZgHIpakwp9EZ0NdW2w1pz8u9GGZSE6G_Zpt_1wZ17LEdeZCYHUkmHZH8QvL-870uwJkEOJpKCdVG3W4jdkwZsx5AppqaDOv-8RoPt2pZfN Cloudflare CA key
+26 test_BfLUJchl3xL6W03nqLNVhlXMFJC Column Key
+27 CFPATIUUKfEePkky07FiW9jBkFUdsm4pJRNqDyNDmvKOWMVOjn7qBI "Contentful Personal Access Token"
+28 pk_6sSSKPCT2EpSNJLwOs5nY7LcEroyfbToCVLYvGzXQBhrpWJH3Sitj7FQSiL85oIDegCafCOaEO5Rjkz1CHMaypndPuYo6GYpUKNm_PrvlgMP3GKu3Icq9Q2hln3imVKgw Courier Key
+29 9sfx7crp43086kgj3eg2jsswrcanhyfyxw9u90x36ufad5q1a68fwdsvvdm20qfdnc5gn4smu40tty1bhlzgrisxg8n84pq4ni1s.as.deputy.com Deputy URL
+30 web_2ulcncebke6rzoaa4vptiaddxqee70zz Dfuse key
+rahulalladifeb10@gmail.com 
+  rahulalladifeb10@hotmail.com
+    __rahulalladifeb10@gmail.com__
+    rahulalladifeb10@gmail.co.in
+3223 333333 3223
+3223-333333-3223
+32233333333223
+1111111111111111
+1111-1111-1111-1111
+1111 1111 1111 1111
+162162 ccavenue Merchant Id
+8DE506CAA31A4DEA1CF6F13C2224BD68 ccavenue Encryption Key
+AV0123456789ABCDEF ccavenue Access Code inside text 1
+
+rzp_live_yVn9uA6BJt2JA5 Razorpay Key id 
+ppYH06mOojm8d3xrj0p0s9do Razorpay Key secret 
+7a62c25f08a4ed289fb4105c9251320 zerobounce api key
+pat-eu1-327a8e1a-94a5-4db3-96a7-5fa99cf6106c hubspot access key
+3e5caf47-848d-454f-ace6-51d80edd1b29 docker accees key
+3w82p9Dfdf7LWMDVkl88jBva3SQ5K #consumer key api key
+bVm2eQ2qlw81Ptr4CSzTeZLDpb4TLcHun7iGFTISKj22plqwMF consumer secret (api secret)
+1561334624-k82qoSdsVY5wCwEKZOAORYR9lilloul3p82dECUAI  Access Token
+REWBYxf5Jvj5GZjwSssseZxfr5bcUwBvY9Hpq4CaRzo8C0x7 Access Token Secret
+
+
+
+
+ a623f2c46a1266fe466c4953c4988f3d "Datadog api key" 32
+1b2748d6714fe7a65998a92824401be3bbf2  "datadog application key" 36
+NRll-hyRROnKqeq1PG44Hrwejy7YwXtZy_n_N "new relic key"
+164f37d6-943c-4dea-8c38-36b2d6622fe6  "jfrog token id"
+aCFge0XpsY9+G5iral+NJaKUfgrFpCtgmm5H4Qli
+line 1
+aCFge0XpsY9+G5iral/NJaKUfgrFpCtgmm5H4Qli
+aCFge0XpsY9aG5iralaNJaKUfgrFpCtgmm5H4Qli
+line 2 rahul-
+LINE 3 line 3
+Line 4
+  AKIAI7VM24AYPFD3VHMA  
+Line 5 RAHUL -
+Line 6 "hacker"-
+line 7
+line 8 Risksek
+line 9 "RAHUL"
+line 10 '$rahul'
+PASSWORD
+AKIAI7VM24AYPFD3VHMA
+AKIAI7VM24AyPFD3VHMA
+"AKIAI7VM24AYPFD3VHMA"
+ZZAKIAI7VM24AYPFD3VHMAZZ
+aa3a/a+Aaaaa3a/a+Aaaaa3a/a+Aaaaa3a/a+Aaaaa3a/a+Aaaaa3a/a+Aaaaa3a/a+Aaaaa3a/a+Aaaaa3a/a==
